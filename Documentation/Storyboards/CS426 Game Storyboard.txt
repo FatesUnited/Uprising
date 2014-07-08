@@ -1,0 +1,35 @@
+Game Concept: We are shooting for a Space/Sci-Fi theme, with some focus on exploration and character progression through storyline progression and some crafting/side-quest type thing. The game will most likely be in 2.5D, so we can make it look nice with high quality sprites/models and be able to make it FEEL 3D by changing things (i.e. environmental ambiance like trees, perhaps?) in the foreground and background of the character.
+
+Plot Line: Slave that escapes from alien captors, frees others and fights 
+back against masters
+
+Main character is the player, a member of human race. Description:
+> Sex: Yes please (but really I'd like to do a female main character)
+> Complexion: Dark
+> Hair Color: Black
+> Eye Color: Brown (Maybe Blue or Green? OR BOTH? - Tom)
+> Physique: Gaunt (thinner due to malnutrition)
+
+Major Plot Points (PC = player character/player of the game):
+> PC is slave of an alien race. PC attempts escape from alien captors
+> PC escapes from alien prison, commandeers a ship and escapes planet
+> PC finds out that there are other prisons on other planets, and resolves
+ to go to those other worlds and free other prisoners
+> PC goes to another world, and frees a group of humans, and escape on the
+ commandeered ship
+> PC and other humans resolve to fight back against their captors
+> PC frees more prisoners, building up their forces for more straight up
+ confrontations with the aliens, instead of guerilla strikes
+> PC ends up winning enough battles to fight the leader of the aliens
+  > this is set to be the last fight, and the end of the game
+
+Story Notes/Personal Thoughts
+> I'd really like to do a female main character, just to make things
+ different
+> I was experimenting with the idea of the aliens also messing with the
+ minds of their slaves (for instance "wiping" their minds of any memories
+ of their previous life, and the PC would little by little figure out
+ who they were and what they did before being captured)
+  > This mind tampering would bring up a lot of ethical issues and really
+   give the character an internal battle in addition to the external one
+   being fought for her freedom and that of others

@@ -1,0 +1,147 @@
+Base Management: Everything is Modular (every building add on is a square)
+> Base Addons
+ > Ship Factory (make more ships at a time)
+ > Defense Structures (defend base)
+ > Ship Unlocking Workshops
+ > Population Buildings (if idea is implemented)
+ > Scanner (reveals a part of the map)
+ > Building that allows a ship to change its upgrade and ability
+  chance
+
+Technology Tree
+> Tier 1 (start here):
+ > Mining Ship Unlocked (Model Done)
+ > Scout Ship Unlocked (Model and Texture Done)
+ > Cruiser Researchable (Model Done)
+
+> Tier 2: 
+ > Support Ship Unlocked (Model Done)
+ > Striker Researchable (Model Done)
+ > Artillery Researchable
+
+> Tier 3: 
+ > Dreadnought Unlocked
+ > Siege Ship Researchable (requires Artillery unlocked) (Model Done)
+ > Anti-Tank Researchable (requires Sriker unlocked) (Model Done)
+
+Statistics
+> Total Integrity
+> Shield Type
+> Weapon
+ > Weapon Type
+ > Damage
+ > Rate of Fire
+> Speed
+> Abilities
+
+Units: Every ship gets 1 ability and 1 upgrade
+> Mining Ship
+ > Integrity: 20
+ > Shield Amount: 100
+ > Shield Resist: 1
+ > Speed: (work on later)
+ > Abilities: (work on later)
+ 
+> Scout
+ > Integrity: 10
+ > Shield Amount: 100
+ > Shield Resist: 1
+ > Weapon Damage: 1
+  > Penetration: 1
+  > Range: 6
+  > RoF: 5
+ > Speed: High (work on later)
+ > Abilities (work on later)
+ 
+> Cruiser
+ > Integrity: 20
+ > Shield Amount: 300
+ > Shield Resist: .75
+ > Weapon Damage: 3
+  > Penetration: 1
+  > Range: 6
+  > RoF: 5
+ > Speed: Medium (work on later)
+ > Abilities: (work on later)
+ 
+> Support Ship
+ > Integrity: 15
+ > Shield Amount: 200
+ > Shield Resist: 1
+ > Speed: (work on later)
+ > Abilities: (work on later)
+ 
+> Artillery
+ > Integrity: 15
+ > Shield Amount: 100
+ > Shield Resist: 1
+ > Weapon: 5
+  > Penetration: 1.2
+  > Range: 6
+  > RoF: 5
+ > Speed: Low/Medium (work on later)
+ > Abilities:  (work on later)
+ 
+> Striker
+ > Integrity: 15
+ > Shield Amount: 200
+ > Shield Resist: 1
+ > Weapon: 2
+  > Penetration: 1.2
+  > Range: 6
+  > RoF: 5
+ > Speed: High (work on later)
+ > Abilities: (work on later)
+ 
+> Dreadnought
+ > Integrity: 35
+ > Shield Amount: 300
+ > Shield Resist: .75
+ > Weapon Damage: 5
+  > Penetration: 1
+  > Range: 6
+  > RoF: 5
+ > Speed: Low (work on later)
+ > Abilities: (work on later)
+ 
+> Anti-Dreadnought
+ > Integrity: 30
+ > Shield Amount: 300
+ > Shield Resist: .5
+ > Weapon: 5
+  > Penetration: 1.4
+  > Range: 6
+  > RoF: 5
+ > Speed: Medium (work on later)
+ > Abilities: (work on later)
+ 
+> Siege Ship
+ > Integrity: 40
+ > Shield: 300
+ > Weapon Damage: 4
+  > Penetration: 1.4
+  > Range: 6
+  > RoF: 5
+ > Speed: Low (work on later)
+ > Abilities: (work on later)
+ 
+Abilities
+> Cloaking (Tier 1):
+> Repair Bots (Tier 1): Regeneration out of combat is faster
+ than normal. Regeneration in combat continues at the
+ normal, un-upgraded rate
+> Warp Drive (Tier 2):
+> Self-Destruct (Tier 2):
+> EMP (Tier 3):
+> Gravity Manipulation (Tier 3): Pull other objects (enemies)
+ towards you
+
+Upgrades (there is an upgrade for each of these at each tier)
+> Increase Integrity
+> Increase Shielding
+> Increase Weapon Damage
+> Increase Speed
+> Increase Range
+
+NOTES
+> Population management a possible solution to balance issues

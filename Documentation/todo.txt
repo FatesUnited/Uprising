@@ -1,0 +1,31 @@
+Priority for tonight
+--------------------
+- Showing a victory/defeat prompt
+- Add damage indicator 
+- Sound Effects
+- Fading Credits with music
+- Give support AoE heal
+
+Not in any particular order.
+
+- Resource management
+- Number Balancing
+- Endgame statistics with a return to title screen
+- Double click to select all visible units of the same type on screen
+- right click on mini-map to move
+- Population limit
+- Fill in tooltips appropriately
+
+MAIN MENU
+---------
+Create a server
+- Set a password (DONE if passwords are matching, client loads map on incorrect password still though)
+- If game is full, do not list it
+^^^ The above problem is something solvable by updating the join server code to not allow the client to load level until they are for sure able to pass those 2 checkpoints^^^
+
+Options
+- How to play (Scene is created, need to actually put content)
+
+STATISTICS
+----------
+-

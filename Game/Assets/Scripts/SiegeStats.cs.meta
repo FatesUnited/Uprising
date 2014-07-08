@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 03c87f53183c6e74cb252e793a315b00
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserObject: {fileID: 100000, guid: c252a685a18e8644e9d52b33a594cd37, type: 2}
+  - green: {fileID: 2800000, guid: a85d57527ad553f47a94aff154cb7d38, type: 3}
+  - yellow: {fileID: 2800000, guid: fd1bf10a439f69248bbbb9f70e85f3a2, type: 3}
+  - red: {fileID: 2800000, guid: 1edb33e9d039f13499db54d2c896f75f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

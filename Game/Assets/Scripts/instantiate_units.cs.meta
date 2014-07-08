@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 340a0b4186a591c4caf58a45b40832a2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - slave: {fileID: 100000, guid: 400ab625a32123e4a8670687eb40a1b0, type: 2}
+  - slave_miner: {fileID: 100000, guid: ab748ebcbe8b6434192dbf8b7807a50b, type: 2}
+  - master: {fileID: 100000, guid: c491f03ead8205c4bb026c01c31335d2, type: 2}
+  - master_miner: {fileID: 100020, guid: 8f9b84def48ceee4aa6f97f5a3c65906, type: 2}
+  - defog: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

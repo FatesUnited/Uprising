@@ -1,0 +1,52 @@
+Resources
+> Resources are called "alloys" which can be mined from
+ asteroids and planets
+> Mining ships enter orbit above a planet and start "mining"
+ > in that they are stationary around the planet, and some
+  animation plays that shows the ship mining
+  
+Population Management
+> Many RTSes implement population management to add another
+ layer of gameplay, base management and a way to control the
+ size of armies so they don't get too big too fast. We can
+ implement that here, but I don't know what form it would take.
+ Would your population cap (and thus how many units you can have)
+ based on how many planets you control? What if there are very
+ few planets? Should the players be allowed to build base
+ structures? If so, we haven't even gotten to that yet
+ 
+ 
+Unit Stats
+> Integrity (health)
+> Shielding (shields)
+> Speed
+> Plating (armor)
+> Attacks
+> Resource Cost
+> Training Time
+
+Units
+> Masters (Aliens)
+ > Mining Ship
+> Slaves (Humans)
+ > Mining Ship - the resource gatherer of the army, which is
+  does not have any attacks of its own, low shielding, integrity,
+  and plating.
+ > Scout Ship - The scout ship is an inexpensive, fast moving and
+  lightly armed and armored. These ships are useful early on for
+  hit and run attacks on the enemy and scouting their location, but
+  are easily outclassed by heavier warships
+ > Frigate - The frigate is useful for small skirmishes and escort
+  duty for bigger warships. It has a good balance between speed,
+  firepower and resilience, and several can take down a battleship
+ > Battleship - The battleship is the mainstay of large spaceborne
+  engagements. Slower than the frigate, but heavily armed with both
+  missile and laser weapons, the battleship can take on multiple
+  opponents at once and win.
+ > Dreadnought - Everything the dreadnought sacrifices in speed, it
+  makes up for it sheer long range firepower.
+ > (Carrier) - Don't know if this should be implemented
+
+ RTS Design Resources
+ > http://content.gpwiki.org/index.php/RTS_Design_Guide
+ > http://futurewarstories.blogspot.com/2011/03/fws-topics-military-spaceship-classes.html

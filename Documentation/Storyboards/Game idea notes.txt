@@ -1,0 +1,4 @@
+- 3 maps
+- 2 player
+- select a race, either rebellion or empire (slave uprising vs master race)
+- possibly have a tournament mode
